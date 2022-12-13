@@ -1,6 +1,6 @@
-import faces from "../Images/faces.jpg";
-import girlface from "../Images/girlface.jpg";
-import eyes from "../Images/eyes.jpg";
+import faces from "../images/faces.jpg";
+import girlface from "../images/girlface.jpg";
+import eyes from "../images/eyes.jpg";
 
 export const images = [
   { title: "Faces", subtitle: "How many faces do you have?", img: faces },
